@@ -1,0 +1,1 @@
+Site no padrão landing page inspirado no famoso starbucks, o projeto utiliza flexbox e grid. / Landing page pattern site inspired by the famous starbucks, the project uses flexbox and grid.
